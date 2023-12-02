@@ -1,2 +1,3 @@
 # DayOne
-This is my my git repository
+This is my my git repository.
+Author - Abhinab Das
